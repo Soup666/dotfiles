@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "coc-flutter": ">=1.9.10"
+  }
+}
